@@ -1,0 +1,29 @@
+body  {
+  background-color: rgb(242, 199, 121);
+}
+
+h1  {
+  color: rgb(135, 2, 2);
+  margin: 20px 0 20px 0;
+}
+
+span  {
+  font-size: 0.90rem;
+}
+
+#show-contact {
+  display: none;
+}
+
+.btn  {
+  margin: 20px 0 20px 0;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
